@@ -3,3 +3,4 @@ The templates for the following can be found on a googlesheet: https://docs.goog
 - how to create your IDs
 - recording image filenames and details
 - manual observations
+But the excel versions have also been added here
