@@ -4,4 +4,4 @@ The templates for the following can be found on a googlesheet: https://docs.goog
 - recording image filenames and details
 - manual observations
 <br>
-But the excel version has also been added here
+But the excel version has also been added here ("Template for IDs, manual observations, and image file descriptions")
