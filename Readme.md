@@ -1,7 +1,9 @@
-To hold templates for permits, for sample labels, for data entry spreadsheets, etc. <br>
-The templates for the following can be found on a googlesheet: https://docs.google.com/spreadsheets/d/1sXoHMll1-VoDuAv8X_azmLSRwVh68FB5WGsJ8Y6W3LQ
-- how to create your IDs
-- recording image filenames and details
-- manual observations
+The Word templates for sample labels and for data entry spreadsheets can be found here <br>
 <br>
-But the excel version has also been added here ("Template for IDs, manual observations, and image file descriptions")
+Also included are the following data entry templates 
+- how to create your ARMS event and sampling IDs
+- how to describe your image filenames and link to their image IDs
+- how to describe manual observations
+<br>
+The documents provided here are the excel version, they can also bd found on our googledrive: https://docs.google.com/spreadsheets/d/1sXoHMll1-VoDuAv8X_azmLSRwVh68FB5WGsJ8Y6W3LQBut <br>
+In both cases, all 3 templates are in the same spreadsheet ("Template for IDs, manual observations, and image file descriptions")
