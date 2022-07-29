@@ -1,7 +1,6 @@
 Explanation,"Observatory_ARMS_dateIn-dateOut 
 (See ""How to make your IDs"")","Filename of the image that you have saved to PlutoF
-(You do not need to include the suffix of the filename)","Plate number. T=Top, B=bottom, number  = plate number counting from the baseplate upwards.
-NA if the image is not of a plate",To add more information to the previous column
+(You do not need to include the suffix of the filename)","Plate number. T=Top, B=bottom, number  = plate number counting from the baseplate upwards, or field",To add more information to the previous column
 Mandatory/Optional,mandatory,mandatory,mandatory,optional
 Title ,MasterSample-ID,Filename,Plate location,Comments
 example entry,Koster_VH2_20180418_20180906,IMG_2343,4T,NA
