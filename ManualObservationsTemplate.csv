@@ -1,15 +1,10 @@
 Explanation ,"Observatory_ARMS_dateIn-dateOut
 (See ""How to make your IDs"")","Image-ID if this is an observation of an image
-NA if it is a human observation","For plates. 
-NA if not a plate. T=Top, B=bottom, number  = plate number counting from the baseplate upwards","Very brief note about the identified object. 
-NA if there are no notes ","""plate image"" is an observation of an image of an ARMS plate
-""field image"" is an observation of any other image - whether take in-situ, in the boat, in the lab...
-""plate observation"" is a human observation of a plate (the real plate, not the image) 
-""field observation"" is a human observation of anything else - in-situ, boat, lab... (again, the real thing, not the image)",,"Please do not use circumflexes, umlauts, or any accent. If copy-pasting, do so ""without format"". ",From http://www.marinespecies.org/index.php,,,,For longer comments you wish to make
-Mandatory/optional ,mandatory,mandatory,mandatory,optional,mandatory,mandatory,mandatory,mandatory,mandatory,mandatory,mandatory,optional
-Title ,MasterSample-ID,Image-ID,PlateLocation,FieldNotes,ObservationSource,ScientificName,Taxonomic citation,Aphia-ID,TaxonRank,OccurrenceStatus,IndividualCount,Comments
-example entry ,Koster_VH2_180418_180906,Koster_VH2_180418_180906_IMG_4T_4533,4T,NA,plate image,Cryptosula pallasiana,"Moll, 1803",111343,SPECIES,present,16,
-example entry ,Koster_VH2_180418_180906,Koster_VH2_180418_180906_IMG_Field_4534,NA,Voucher specimen,field image,Idmidronea atlantica,"Forbes in Johnston, 1847",111752,SPECIES,present,4,
-example entry ,Koster_VH2_180418_180906,NA,NA,Fell off the unit,field observation,Escharella immersa,"Fleming, 1828",111484,SPECIES,present,9,
-example entry ,Koster_VH2_180418_180906,NA,5B,Fell off plate 5B,plate observation,Scrupocellaria,"van Beneden, 1845",110866,GENUS,present,12,
-example entry ,Koster_VH2_180418_180906,Koster_VH2_180418_180906_IMG_MF2000_23,NA,,MF2000 observation,something,something,something,something,something,something,
+NA if it is a human observation","Source of the observation:
+For plates: plate number (from baseplate upwards) and T=Top, B=bottom; field = field observation; arms unit = flopping about in the bucket when you emptied the arms unit",Any notes,,"Please do not use circumflexes, umlauts, or any accent. If copy-pasting, do so ""without format"". ",From http://www.marinespecies.org/index.php,,,
+Mandatory/optional ,mandatory,mandatory,mandatory,optional,mandatory,mandatory,mandatory,mandatory,mandatory,mandatory
+Title ,MasterSample-ID,Image-ID,PlateLocation,FieldNotes,ScientificName,Taxonomic citation,Aphia-ID,TaxonRank,OccurrenceStatus,IndividualCount
+example entry ,Koster_VH2_20180418_20180906,Koster_VH2_20180418_20180906_IMG_4T_3,4T,NA,Cryptosula pallasiana,"Moll, 1803",111343,SPECIES,present,16
+example entry ,Koster_VH2_20180418_20180906,Koster_VH2_20180418_20180906_IMG_Field_24,field,Voucher specimen,Idmidronea atlantica,"Forbes in Johnston, 1847",111752,SPECIES,present,4
+example entry ,Koster_VH2_20180418_20180906,NA,arms unit,motile fraction,Escharella immersa,"Fleming, 1828",111484,SPECIES,present,9
+example entry ,Koster_VH2_20180418_20180906,NA,5B,Fell off plate 5B,Scrupocellaria,"van Beneden, 1845",110866,GENUS,present,12
